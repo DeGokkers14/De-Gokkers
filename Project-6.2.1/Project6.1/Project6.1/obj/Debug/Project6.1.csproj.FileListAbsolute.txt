@@ -1,0 +1,10 @@
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\obj\Debug\Project6.1.csprojResolveAssemblyReference.cache
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\obj\Debug\Project6.Form1.resources
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\obj\Debug\Project6.Properties.Resources.resources
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\obj\Debug\Project6.1.csproj.GenerateResource.Cache
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\obj\Debug\Project6.1.csproj.CoreCompileInputs.cache
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\bin\Debug\Project6.1.exe.config
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\bin\Debug\Project6.1.exe
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\bin\Debug\Project6.1.pdb
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\obj\Debug\Project6.1.exe
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\obj\Debug\Project6.1.pdb

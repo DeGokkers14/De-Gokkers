@@ -1,0 +1,30 @@
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\obj\Debug\Project6.1.csprojResolveAssemblyReference.cache
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\obj\Debug\Project6.Form1.resources
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\obj\Debug\Project6.Properties.Resources.resources
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\obj\Debug\Project6.1.csproj.GenerateResource.Cache
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\obj\Debug\Project6.1.csproj.CoreCompileInputs.cache
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\bin\Debug\Project6.1.exe.config
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\bin\Debug\Project6.1.exe
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\bin\Debug\Project6.1.pdb
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\obj\Debug\Project6.1.exe
+C:\Users\HcTim\source\repos\Project6.1\Project6.1\obj\Debug\Project6.1.pdb
+C:\Users\Berke Sahin\Desktop\Project6.1\Project6.1\bin\Debug\Project6.1.exe.config
+C:\Users\Berke Sahin\Desktop\Project6.1\Project6.1\bin\Debug\Project6.1.exe
+C:\Users\Berke Sahin\Desktop\Project6.1\Project6.1\bin\Debug\Project6.1.pdb
+C:\Users\Berke Sahin\Desktop\Project6.1\Project6.1\obj\Debug\Project6.1.csprojResolveAssemblyReference.cache
+C:\Users\Berke Sahin\Desktop\Project6.1\Project6.1\obj\Debug\Project6.Form1.resources
+C:\Users\Berke Sahin\Desktop\Project6.1\Project6.1\obj\Debug\Project6.Properties.Resources.resources
+C:\Users\Berke Sahin\Desktop\Project6.1\Project6.1\obj\Debug\Project6.1.csproj.GenerateResource.Cache
+C:\Users\Berke Sahin\Desktop\Project6.1\Project6.1\obj\Debug\Project6.1.csproj.CoreCompileInputs.cache
+C:\Users\Berke Sahin\Desktop\Project6.1\Project6.1\obj\Debug\Project6.1.exe
+C:\Users\Berke Sahin\Desktop\Project6.1\Project6.1\obj\Debug\Project6.1.pdb
+C:\Users\rutgr\OneDrive\Radius\Leerjaar_1\P3\Project\De-Gokkers-dbdac4b13a3828a43da455dcf2cc9c8128babc1c\Project6.2\Project6.1\bin\Debug\Project6.1.exe.config
+C:\Users\rutgr\OneDrive\Radius\Leerjaar_1\P3\Project\De-Gokkers-dbdac4b13a3828a43da455dcf2cc9c8128babc1c\Project6.2\Project6.1\bin\Debug\Project6.1.exe
+C:\Users\rutgr\OneDrive\Radius\Leerjaar_1\P3\Project\De-Gokkers-dbdac4b13a3828a43da455dcf2cc9c8128babc1c\Project6.2\Project6.1\bin\Debug\Project6.1.pdb
+C:\Users\rutgr\OneDrive\Radius\Leerjaar_1\P3\Project\De-Gokkers-dbdac4b13a3828a43da455dcf2cc9c8128babc1c\Project6.2\Project6.1\obj\Debug\Project6.1.csprojResolveAssemblyReference.cache
+C:\Users\rutgr\OneDrive\Radius\Leerjaar_1\P3\Project\De-Gokkers-dbdac4b13a3828a43da455dcf2cc9c8128babc1c\Project6.2\Project6.1\obj\Debug\Project6.Form1.resources
+C:\Users\rutgr\OneDrive\Radius\Leerjaar_1\P3\Project\De-Gokkers-dbdac4b13a3828a43da455dcf2cc9c8128babc1c\Project6.2\Project6.1\obj\Debug\Project6.Properties.Resources.resources
+C:\Users\rutgr\OneDrive\Radius\Leerjaar_1\P3\Project\De-Gokkers-dbdac4b13a3828a43da455dcf2cc9c8128babc1c\Project6.2\Project6.1\obj\Debug\Project6.1.csproj.GenerateResource.Cache
+C:\Users\rutgr\OneDrive\Radius\Leerjaar_1\P3\Project\De-Gokkers-dbdac4b13a3828a43da455dcf2cc9c8128babc1c\Project6.2\Project6.1\obj\Debug\Project6.1.csproj.CoreCompileInputs.cache
+C:\Users\rutgr\OneDrive\Radius\Leerjaar_1\P3\Project\De-Gokkers-dbdac4b13a3828a43da455dcf2cc9c8128babc1c\Project6.2\Project6.1\obj\Debug\Project6.1.exe
+C:\Users\rutgr\OneDrive\Radius\Leerjaar_1\P3\Project\De-Gokkers-dbdac4b13a3828a43da455dcf2cc9c8128babc1c\Project6.2\Project6.1\obj\Debug\Project6.1.pdb
